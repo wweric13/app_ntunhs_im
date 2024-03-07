@@ -10,7 +10,7 @@
         android:id="@+id/result_textView"
         android:layout_width="168dp"
         android:layout_height="58dp"
-        android:text="Hello"
+        android:text="GuessNumber"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -20,9 +20,11 @@
 
     <Button
         android:id="@+id/GUESS"
-        android:layout_width="100dp"
-        android:layout_height="51dp"
-        android:text="GUESS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/guess"
+        android:textColor="@color/color_text"
+        android:background="@drawable/round_button_selector2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.282"
@@ -33,9 +35,11 @@
 
     <Button
         android:id="@+id/RESET"
-        android:layout_width="97dp"
-        android:layout_height="54dp"
-        android:text="RESET"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/reset"
+        android:textColor="@color/color_text"
+        android:background="@drawable/round_button_selector"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.716"

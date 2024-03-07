@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">終極密碼</string>
+    <string name="guess">猜數字</string>
+    <string name="reset">重置</string>
+    <string name="Answer_is_smaller">你猜得比較大喔</string>
+    <string name="Answer_is_bigger">你猜得比較小喔</string>
+    <string name="One_more_time">再一次</string>
+    <string name="Bingo">猜對囉</string>
+</resources>

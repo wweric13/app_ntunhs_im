@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guessnumber</string>
+    <string name="reset">RESET</string>
+    <string name="guess">GUESS</string>
+    <string name="Answer_is_smaller">Answer is smaller</string>
+    <string name="Answer_is_bigger">Answer is bigger</string>
+    <string name="One_more_time">One more time</string>
+    <string name="Bingo">Bingo</string>
 </resources>
